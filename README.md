@@ -1,0 +1,2 @@
+# Trading-Bot
+A crypto trading bot that automates the process of constantly checking different exchanges and monitors the prices of cryptocurrency. On finding the right exchange and right price the trading automatically performs the trade operation and generates profits for their investors and traders. This crypto trading bot can be further upgraded for implementing the trading concepts like arbitrage trading, flash loans, and many more.
